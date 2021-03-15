@@ -1,2 +1,2 @@
 # PythonWorkshop
-Python Workshop
+AI-TECH Introduction to Python workshop given by DSC Dumlupınar 
